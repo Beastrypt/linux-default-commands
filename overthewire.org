@@ -1,1 +1,22 @@
-Parancsok ls , cd , cat , file , du , find
+Első parancs
+
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
+ssh (Secure Shell) - ez egy hálózeti protokoll amellyel titkosítot csatornán keresztül csatlakozhatsz távóli számitógépekhez
+-p ezzel a kapcsolóval képes vagy más alkalmazást poroto használni a parancson belül
+
+Parancsok amiket használni kell a Bandit 1-2 ig
+
+ls , cd , cat , file , du , find
+
+
+ls - Fájlok és mappák listázása
+cd - Könyvtárváltás
+cat - Fájl tartalmának megjelenitése
+file - Megmutatja egy fájl tipusát
+du - Lemezhasználaz megjelenitése 
+find - Fájlok és mappák keresése
+
+
+
+//Első jelszó:  6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+
