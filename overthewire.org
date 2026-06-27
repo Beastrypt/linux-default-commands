@@ -1,0 +1,1 @@
+Parancsok ls , cd , cat , file , du , find
